@@ -4,4 +4,6 @@ title: "About"
 
 ### About this site
 
-This website is made for Data Science I class Homework 4.
+This website is made for Data Science I class Homework 4. More details will be added later througout the course.
+
+I am from China and this is my tenth year in the United States. I miss SoCal sunshine as it is a bit cold here!

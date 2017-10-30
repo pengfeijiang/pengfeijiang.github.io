@@ -11,7 +11,7 @@ title: "Hello, this is Pengfei Jiang!"
 My full Resume is available [here](Pengfei Jiang-Resume.pdf).
 
 ## About me
-There is something interesting about me [here](about.html).
+I am a 1st year Biostatistics MS student. More interesting things about me and the site [here](about.html).
 
 ## Contact Information
 Pengfei Jiang
